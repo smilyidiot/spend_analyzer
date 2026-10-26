@@ -1,0 +1,10 @@
+date,amount,category,vendor,department
+2026-05-02,3000.0,Travel,Uber,Sales
+2026-05-10,18500.0,Software,AWS,Engineering
+2026-05-11,18500.0,Software,AWS,Engineering
+2026-05-14,1200.0,Software,Figma,Engineering
+2026-05-16,1200.0,Software,Figma,Engineering
+2026-05-20,7600.0,Consulting,Deloitte,Finance
+2026-05-22,4500.0,Events,BookMyShow,Marketing
+2026-06-01,9900.0,Consulting,KPMG,Finance
+2026-06-25,9900.0,Consulting,KPMG,Finance

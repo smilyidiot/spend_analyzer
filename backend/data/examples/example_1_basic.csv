@@ -1,0 +1,13 @@
+date,amount,category,vendor,department
+2026-04-02,1200.0,Travel,Uber,Sales
+2026-04-03,4999.0,Software,GitHub,Engineering
+2026-04-05,2750.5,Office Supplies,Amazon Business,Operations
+2026-04-07,8600.0,Events,Zomato Catering,Marketing
+2026-04-09,15000.0,Marketing,Google Ads,Marketing
+2026-04-12,3200.0,Travel,IndiGo,Sales
+2026-04-15,1100.0,Software,Slack,Engineering
+2026-04-18,6400.0,Consulting,KPMG,Finance
+2026-04-21,980.0,Office Supplies,Staples,Operations
+2026-04-24,22000.0,Marketing,LinkedIn,Marketing
+2026-04-27,5300.0,Travel,MakeMyTrip,Sales
+2026-04-29,7400.0,Software,Atlassian,Engineering

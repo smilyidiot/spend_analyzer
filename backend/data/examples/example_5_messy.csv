@@ -1,0 +1,9 @@
+ Date ,Amount, Category,Vendor ,Department
+2026-07-01,3400.0,Travel,  Uber  ,Sales
+N/A,500.0,Software,GitHub,Engineering
+2026-07-03,-200.0,Travel,Uber,Sales
+2026-07-04,0,Events,BookMyShow,Marketing
+2026-07-05,,Consulting,KPMG,Finance
+2026-07-06,12500.0,Marketing,Google Ads,Marketing
+2026-07-08,7800.0,Consulting,Deloitte,Finance
+2026-07-10,2100.0,Software,Slack,Engineering

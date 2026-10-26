@@ -1,0 +1,52 @@
+date,amount,category,vendor,department
+2026-04-01,2131.47,Travel,Uber,Sales
+2026-04-13,13424.53,Consulting,KPMG,Marketing
+2026-04-15,9584.81,Consulting,KPMG,Sales
+2026-04-15,3694.11,Marketing,Google Ads,Marketing
+2026-04-19,10863.36,Software,GitHub,Engineering
+2026-04-20,15784.06,Travel,IndiGo,Engineering
+2026-04-26,12967.77,Consulting,KPMG,Sales
+2026-05-01,9689.27,Travel,IndiGo,Engineering
+2026-05-01,4984.63,Software,AWS,Engineering
+2026-05-02,16143.41,Consulting,KPMG,Marketing
+2026-05-04,8343.76,Marketing,Google Ads,Marketing
+2026-05-09,2655.74,Marketing,Meta Ads,Sales
+2026-05-13,8976.04,Consulting,KPMG,Marketing
+2026-05-14,3557.33,Travel,Uber,Sales
+2026-05-17,1565.29,Marketing,Google Ads,Engineering
+2026-05-18,14448.38,Travel,IndiGo,Sales
+2026-06-05,9389.29,Software,AWS,Marketing
+2026-06-05,4473.73,Consulting,KPMG,Engineering
+2026-06-06,19920.88,Consulting,KPMG,Sales
+2026-06-07,1294.67,Software,GitHub,Engineering
+2026-06-08,14782.43,Software,AWS,Marketing
+2026-06-11,8337.23,Marketing,Google Ads,Sales
+2026-06-13,19810.99,Consulting,KPMG,Engineering
+2026-06-18,9501.07,Software,AWS,Marketing
+2026-06-20,3417.2,Consulting,Deloitte,Marketing
+2026-06-21,14052.51,Software,GitHub,Engineering
+2026-06-25,8965.38,Software,GitHub,Sales
+2026-06-28,19960.17,Marketing,Google Ads,Sales
+2026-07-02,5529.74,Marketing,Meta Ads,Engineering
+2026-07-02,16072.07,Software,GitHub,Engineering
+2026-07-03,5339.53,Software,AWS,Engineering
+2026-07-03,18115.88,Consulting,Deloitte,Sales
+2026-07-05,2430.0,Travel,IndiGo,Marketing
+2026-07-07,15230.72,Software,AWS,Engineering
+2026-07-10,11089.07,Marketing,Google Ads,Sales
+2026-07-12,17927.86,Software,GitHub,Marketing
+2026-07-12,19292.65,Marketing,Google Ads,Marketing
+2026-07-14,6575.27,Consulting,KPMG,Marketing
+2026-07-14,5732.22,Consulting,KPMG,Sales
+2026-07-20,9007.69,Travel,Uber,Sales
+2026-07-21,10162.48,Travel,IndiGo,Engineering
+2026-07-24,12207.64,Software,AWS,Engineering
+2026-07-28,11883.34,Consulting,Deloitte,Engineering
+2026-08-01,6719.62,Marketing,Google Ads,Marketing
+2026-08-04,15818.98,Consulting,Deloitte,Engineering
+2026-08-06,13539.81,Marketing,Meta Ads,Engineering
+2026-08-11,18750.78,Consulting,Deloitte,Engineering
+2026-08-15,10855.25,Travel,Uber,Engineering
+2026-08-19,12568.47,Travel,Uber,Sales
+2026-08-20,10138.18,Travel,Uber,Marketing
+2026-08-21,19873.12,Travel,IndiGo,Marketing
