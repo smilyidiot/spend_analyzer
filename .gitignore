@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Generated reports
+*.xlsx
+*.pdf
+!backend/data/*.csv
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spend-analyzer"
+version = "1.0.0"
+description = "Pandas-powered spend/expense analytics with FastAPI, a CLI and Excel/PDF export."
+readme = "../README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115,<1.0",
+    "uvicorn[standard]>=0.30",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "openpyxl>=3.1",
+    "reportlab>=4.1",
+    "typer>=0.12",
+    "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "httpx>=0.27"]
+
+[project.scripts]
+spend-analyzer = "app.cli:cli"
+
+[tool.setuptools]
+packages = ["app"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

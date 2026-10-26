@@ -1,0 +1,364 @@
+date,amount,category,vendor,department
+2026-04-03,3918.68,Software,Atlassian,Engineering
+2026-04-03,22358.4,Marketing,Meta Ads,Engineering
+2026-04-04,1230.03,Events,Zomato Catering,Sales
+2026-04-04,15249.46,Software,Slack,Finance
+2026-04-04,10778.24,Software,Slack,Marketing
+2026-04-04,20331.05,Consulting,KPMG,Engineering
+2026-04-05,8836.14,Marketing,LinkedIn,Sales
+2026-04-06,2772.27,Office Supplies,Amazon Business,Engineering
+2026-04-07,6980.76,Office Supplies,Croma,Engineering
+2026-04-07,13637.59,Marketing,LinkedIn,Marketing
+2026-04-09,15653.73,Office Supplies,Croma,Operations
+2026-04-09,17762.01,Consulting,Deloitte,Engineering
+2026-04-09,19440.17,Marketing,Google Ads,Engineering
+2026-04-09,9813.09,Software,AWS,Marketing
+2026-04-10,9204.13,Software,GitHub,Operations
+2026-04-10,16376.87,Marketing,Meta Ads,Finance
+2026-04-11,6497.87,Consulting,Accenture,Marketing
+2026-04-12,17359.97,Office Supplies,Croma,Sales
+2026-04-12,21149.87,Marketing,LinkedIn,Engineering
+2026-04-12,20223.62,Software,AWS,Marketing
+2026-04-13,22871.84,Travel,Uber,Finance
+2026-04-13,5709.35,Marketing,LinkedIn,Marketing
+2026-04-14,4000.35,Marketing,LinkedIn,Sales
+2026-04-14,13704.94,Software,Slack,Finance
+2026-04-14,10285.31,Events,Taj Hotels,Sales
+2026-04-15,2727.28,Consulting,KPMG,Engineering
+2026-04-17,19905.94,Marketing,Google Ads,Marketing
+2026-04-18,9849.67,Travel,OYO Rooms,Marketing
+2026-04-18,24291.42,Consulting,KPMG,Engineering
+2026-04-18,3306.52,Marketing,Meta Ads,Finance
+2026-04-18,8834.3,Office Supplies,Croma,Operations
+2026-04-19,579.51,Software,Figma,Operations
+2026-04-19,12938.2,Consulting,Deloitte,Engineering
+2026-04-19,21120.9,Marketing,LinkedIn,Finance
+2026-04-20,9660.89,Software,Atlassian,Sales
+2026-04-20,23003.09,Consulting,Accenture,Finance
+2026-04-20,977.18,Office Supplies,Staples,Operations
+2026-04-20,1919.17,Office Supplies,Amazon Business,Finance
+2026-04-23,3645.59,Travel,Uber,Marketing
+2026-04-23,6993.89,Consulting,Deloitte,Finance
+2026-04-23,23258.38,Events,Zomato Catering,Sales
+2026-04-24,16422.01,Events,Taj Hotels,Marketing
+2026-04-24,3464.6,Consulting,KPMG,Sales
+2026-04-26,14916.78,Travel,Uber,Engineering
+2026-04-26,6109.07,Travel,IndiGo,Engineering
+2026-04-27,7322.69,Travel,Uber,Marketing
+2026-04-27,3741.64,Software,Slack,Finance
+2026-04-28,19723.18,Events,Zomato Catering,Marketing
+2026-04-28,2874.8,Software,AWS,Marketing
+2026-04-28,10572.01,Office Supplies,Staples,Engineering
+2026-04-28,24612.05,Marketing,Meta Ads,Engineering
+2026-04-30,20114.52,Marketing,LinkedIn,Engineering
+2026-04-30,5160.12,Software,Atlassian,Marketing
+2026-04-30,4995.46,Software,Figma,Marketing
+2026-05-01,20296.54,Travel,OYO Rooms,Finance
+2026-05-04,23195.99,Travel,IndiGo,Sales
+2026-05-04,12398.21,Software,Figma,Sales
+2026-05-04,4533.61,Events,Zomato Catering,Engineering
+2026-05-04,23199.69,Events,BookMyShow,Marketing
+2026-05-05,23954.28,Events,Taj Hotels,Finance
+2026-05-05,12423.45,Marketing,Meta Ads,Sales
+2026-05-06,14689.92,Software,AWS,Finance
+2026-05-06,1900.55,Travel,MakeMyTrip,Finance
+2026-05-07,4357.1,Consulting,Accenture,Finance
+2026-05-07,2178.77,Travel,Uber,Engineering
+2026-05-07,10392.5,Marketing,Google Ads,Finance
+2026-05-08,1473.67,Consulting,Accenture,Engineering
+2026-05-09,14348.06,Marketing,Meta Ads,Operations
+2026-05-09,16908.29,Office Supplies,Amazon Business,Operations
+2026-05-09,10196.75,Software,GitHub,Operations
+2026-05-10,728.23,Office Supplies,Amazon Business,Finance
+2026-05-10,2294.89,Consulting,Deloitte,Sales
+2026-05-10,3745.19,Consulting,KPMG,Operations
+2026-05-12,4364.8,Office Supplies,Staples,Finance
+2026-05-13,13459.05,Consulting,Accenture,Finance
+2026-05-13,3037.87,Office Supplies,Croma,Sales
+2026-05-14,18689.21,Travel,IndiGo,Sales
+2026-05-14,15318.33,Office Supplies,Staples,Operations
+2026-05-15,21396.36,Marketing,Meta Ads,Finance
+2026-05-16,2761.31,Office Supplies,Amazon Business,Marketing
+2026-05-16,586.87,Office Supplies,Amazon Business,Sales
+2026-05-16,4458.76,Marketing,LinkedIn,Marketing
+2026-05-17,14242.22,Marketing,LinkedIn,Engineering
+2026-05-17,13866.96,Travel,Uber,Operations
+2026-05-17,4128.3,Consulting,Accenture,Sales
+2026-05-17,9433.96,Travel,MakeMyTrip,Engineering
+2026-05-18,16839.87,Software,Atlassian,Operations
+2026-05-18,24359.01,Consulting,KPMG,Sales
+2026-05-19,22094.7,Software,Atlassian,Engineering
+2026-05-20,19668.47,Marketing,LinkedIn,Marketing
+2026-05-20,185000.0,Consulting,Deloitte,Operations
+2026-05-21,19790.68,Office Supplies,Amazon Business,Engineering
+2026-05-22,5949.63,Travel,OYO Rooms,Marketing
+2026-05-22,20603.14,Office Supplies,Staples,Sales
+2026-05-22,16670.81,Software,AWS,Marketing
+2026-05-23,24188.78,Office Supplies,Amazon Business,Operations
+2026-05-23,12980.44,Office Supplies,Croma,Finance
+2026-05-24,21987.44,Travel,IndiGo,Operations
+2026-05-24,24082.09,Software,Slack,Operations
+2026-05-27,18349.35,Events,BookMyShow,Operations
+2026-05-27,24613.78,Events,Taj Hotels,Engineering
+2026-05-27,5156.93,Events,Taj Hotels,Engineering
+2026-05-27,541.44,Marketing,LinkedIn,Finance
+2026-05-28,2214.36,Office Supplies,Staples,Operations
+2026-05-29,21276.37,Office Supplies,Croma,Operations
+2026-05-29,16838.88,Consulting,KPMG,Operations
+2026-05-29,7743.55,Events,Taj Hotels,Sales
+2026-05-29,16790.77,Software,Figma,Marketing
+2026-05-30,7873.27,Consulting,Accenture,Finance
+2026-06-01,11032.26,Office Supplies,Amazon Business,Finance
+2026-06-01,8395.11,Consulting,Accenture,Marketing
+2026-06-02,13023.76,Marketing,Google Ads,Sales
+2026-06-02,7452.77,Marketing,Google Ads,Finance
+2026-06-02,20551.37,Office Supplies,Amazon Business,Sales
+2026-06-03,4110.17,Software,Atlassian,Engineering
+2026-06-03,15476.21,Software,Figma,Engineering
+2026-06-04,14603.94,Events,Taj Hotels,Marketing
+2026-06-04,6477.62,Events,BookMyShow,Engineering
+2026-06-04,5861.61,Travel,OYO Rooms,Finance
+2026-06-05,22978.02,Travel,Uber,Engineering
+2026-06-05,20134.71,Events,Zomato Catering,Finance
+2026-06-05,8273.8,Consulting,Accenture,Marketing
+2026-06-06,10955.15,Marketing,Meta Ads,Finance
+2026-06-06,18719.56,Events,Zomato Catering,Marketing
+2026-06-06,18918.53,Events,BookMyShow,Operations
+2026-06-06,15855.34,Consulting,KPMG,Operations
+2026-06-07,6245.09,Travel,MakeMyTrip,Operations
+2026-06-07,2474.15,Office Supplies,Croma,Sales
+2026-06-07,17501.77,Software,Figma,Sales
+2026-06-09,13793.97,Events,BookMyShow,Marketing
+2026-06-09,20905.83,Travel,Uber,Marketing
+2026-06-09,978.53,Consulting,Accenture,Finance
+2026-06-10,23597.17,Events,Zomato Catering,Operations
+2026-06-10,13686.4,Events,BookMyShow,Finance
+2026-06-10,12461.62,Consulting,Deloitte,Operations
+2026-06-10,18500.0,Software,AWS,Engineering
+2026-06-11,10027.0,Events,Zomato Catering,Marketing
+2026-06-11,21092.39,Marketing,Google Ads,Sales
+2026-06-11,1160.68,Consulting,Accenture,Marketing
+2026-06-11,18500.0,Software,AWS,Engineering
+2026-06-12,1164.0,Consulting,Accenture,Marketing
+2026-06-12,4952.36,Software,Figma,Operations
+2026-06-12,5685.68,Events,BookMyShow,Operations
+2026-06-12,7317.29,Office Supplies,Staples,Marketing
+2026-06-13,974.89,Travel,OYO Rooms,Finance
+2026-06-13,5993.44,Travel,MakeMyTrip,Engineering
+2026-06-16,15722.72,Software,AWS,Sales
+2026-06-17,3302.54,Events,Taj Hotels,Sales
+2026-06-18,19289.0,Marketing,LinkedIn,Sales
+2026-06-18,24111.5,Consulting,Accenture,Engineering
+2026-06-18,3148.42,Software,GitHub,Engineering
+2026-06-19,22746.64,Consulting,Accenture,Marketing
+2026-06-19,5359.08,Events,Taj Hotels,Finance
+2026-06-20,21332.18,Travel,MakeMyTrip,Finance
+2026-06-22,13552.26,Travel,MakeMyTrip,Operations
+2026-06-22,809.98,Travel,MakeMyTrip,Marketing
+2026-06-22,11121.32,Events,Zomato Catering,Operations
+2026-06-22,17829.06,Marketing,LinkedIn,Marketing
+2026-06-23,24154.11,Marketing,Meta Ads,Operations
+2026-06-24,11889.41,Consulting,KPMG,Finance
+2026-06-24,21366.97,Office Supplies,Staples,Engineering
+2026-06-24,6474.65,Office Supplies,Staples,Marketing
+2026-06-24,16870.62,Consulting,Accenture,Operations
+2026-06-26,12444.97,Office Supplies,Amazon Business,Operations
+2026-06-26,7351.63,Office Supplies,Staples,Finance
+2026-06-26,14116.88,Marketing,LinkedIn,Finance
+2026-06-27,18141.83,Travel,Uber,Marketing
+2026-06-28,16324.62,Software,Figma,Marketing
+2026-06-28,2779.81,Events,Zomato Catering,Sales
+2026-06-28,6460.98,Events,Taj Hotels,Finance
+2026-06-28,14060.09,Office Supplies,Staples,Operations
+2026-06-29,8604.39,Marketing,Meta Ads,Marketing
+2026-06-29,6659.39,Office Supplies,Staples,Engineering
+2026-06-29,8230.92,Marketing,Google Ads,Finance
+2026-06-30,18595.81,Software,Atlassian,Operations
+2026-07-01,7433.47,Consulting,Accenture,Engineering
+2026-07-01,6073.34,Software,GitHub,Sales
+2026-07-01,17846.45,Office Supplies,Amazon Business,Sales
+2026-07-01,24370.23,Office Supplies,Amazon Business,Finance
+2026-07-02,16127.81,Marketing,Google Ads,Marketing
+2026-07-02,14564.57,Travel,IndiGo,Marketing
+2026-07-03,5016.91,Events,BookMyShow,Engineering
+2026-07-03,3295.13,Office Supplies,Staples,Engineering
+2026-07-03,2315.01,Events,BookMyShow,Engineering
+2026-07-03,9900.0,Consulting,KPMG,Finance
+2026-07-04,23753.58,Software,Slack,Engineering
+2026-07-05,15354.78,Travel,OYO Rooms,Finance
+2026-07-05,9900.0,Consulting,KPMG,Finance
+2026-07-06,11537.6,Consulting,KPMG,Marketing
+2026-07-07,7981.82,Consulting,KPMG,Finance
+2026-07-07,23715.96,Travel,IndiGo,Sales
+2026-07-08,2489.09,Office Supplies,Croma,Sales
+2026-07-09,4335.05,Consulting,Deloitte,Marketing
+2026-07-10,12012.86,Marketing,Meta Ads,Engineering
+2026-07-10,17820.42,Software,GitHub,Marketing
+2026-07-10,23135.82,Travel,Uber,Finance
+2026-07-11,13841.78,Events,Zomato Catering,Sales
+2026-07-12,1961.13,Software,AWS,Operations
+2026-07-12,20693.89,Consulting,Accenture,Operations
+2026-07-13,17372.61,Travel,OYO Rooms,Marketing
+2026-07-13,13729.55,Office Supplies,Croma,Marketing
+2026-07-13,22290.86,Travel,IndiGo,Operations
+2026-07-14,2737.51,Office Supplies,Amazon Business,Finance
+2026-07-14,24989.52,Consulting,Deloitte,Operations
+2026-07-14,19196.17,Consulting,Deloitte,Sales
+2026-07-14,16461.98,Events,Taj Hotels,Operations
+2026-07-15,16052.23,Consulting,KPMG,Marketing
+2026-07-17,8666.06,Office Supplies,Staples,Engineering
+2026-07-17,10585.3,Software,GitHub,Marketing
+2026-07-17,23657.24,Office Supplies,Croma,Finance
+2026-07-19,6683.77,Travel,MakeMyTrip,Engineering
+2026-07-19,20710.72,Events,Taj Hotels,Engineering
+2026-07-19,11818.42,Marketing,Meta Ads,Engineering
+2026-07-20,15754.53,Consulting,KPMG,Marketing
+2026-07-21,7042.88,Travel,Uber,Sales
+2026-07-21,22080.74,Office Supplies,Staples,Marketing
+2026-07-21,24342.1,Travel,IndiGo,Finance
+2026-07-22,8113.38,Marketing,Google Ads,Engineering
+2026-07-23,6005.17,Events,Zomato Catering,Engineering
+2026-07-23,16368.89,Events,Zomato Catering,Sales
+2026-07-23,7650.61,Events,Taj Hotels,Operations
+2026-07-23,24515.99,Events,BookMyShow,Sales
+2026-07-24,9897.86,Consulting,Deloitte,Finance
+2026-07-24,22043.49,Consulting,Accenture,Engineering
+2026-07-24,8826.94,Office Supplies,Staples,Finance
+2026-07-25,18288.25,Travel,MakeMyTrip,Finance
+2026-07-25,12496.19,Consulting,Accenture,Sales
+2026-07-26,8955.54,Consulting,KPMG,Finance
+2026-07-26,11655.94,Consulting,KPMG,Operations
+2026-07-26,14509.04,Software,Atlassian,Sales
+2026-07-27,18745.28,Travel,MakeMyTrip,Marketing
+2026-07-27,19913.64,Events,Taj Hotels,Sales
+2026-07-27,3593.03,Events,Zomato Catering,Finance
+2026-07-28,2942.94,Travel,OYO Rooms,Marketing
+2026-07-28,10544.48,Travel,Uber,Sales
+2026-07-30,15769.86,Office Supplies,Staples,Marketing
+2026-07-30,21368.25,Marketing,Google Ads,Finance
+2026-07-30,15856.58,Events,BookMyShow,Marketing
+2026-07-31,6251.87,Travel,IndiGo,Operations
+2026-07-31,11132.3,Software,AWS,Engineering
+2026-07-31,21878.19,Marketing,Meta Ads,Marketing
+2026-07-31,22633.89,Software,GitHub,Engineering
+2026-08-01,9282.35,Travel,MakeMyTrip,Marketing
+2026-08-01,13513.57,Software,Atlassian,Finance
+2026-08-02,2434.72,Software,Atlassian,Marketing
+2026-08-03,12692.85,Marketing,Google Ads,Finance
+2026-08-03,11798.17,Software,Atlassian,Operations
+2026-08-03,16837.6,Events,BookMyShow,Marketing
+2026-08-03,13891.65,Office Supplies,Croma,Engineering
+2026-08-04,7829.28,Office Supplies,Croma,Marketing
+2026-08-04,11692.48,Marketing,LinkedIn,Operations
+2026-08-04,21406.72,Software,Figma,Engineering
+2026-08-05,9294.5,Events,Taj Hotels,Operations
+2026-08-06,7224.77,Travel,OYO Rooms,Finance
+2026-08-06,24353.27,Marketing,Meta Ads,Finance
+2026-08-07,15373.09,Office Supplies,Amazon Business,Operations
+2026-08-07,15711.83,Software,Atlassian,Sales
+2026-08-07,22633.39,Marketing,Google Ads,Engineering
+2026-08-08,14699.56,Events,Zomato Catering,Sales
+2026-08-08,8504.62,Travel,MakeMyTrip,Marketing
+2026-08-09,19769.56,Software,Atlassian,Operations
+2026-08-10,20846.58,Consulting,KPMG,Operations
+2026-08-10,18790.7,Events,BookMyShow,Operations
+2026-08-10,24090.89,Travel,OYO Rooms,Sales
+2026-08-10,24198.11,Software,Figma,Finance
+2026-08-11,841.01,Travel,OYO Rooms,Finance
+2026-08-11,9530.35,Travel,OYO Rooms,Operations
+2026-08-12,23537.15,Events,Taj Hotels,Engineering
+2026-08-12,12051.18,Marketing,Google Ads,Finance
+2026-08-12,22923.77,Consulting,KPMG,Sales
+2026-08-12,16067.4,Marketing,Google Ads,Marketing
+2026-08-13,3358.56,Marketing,LinkedIn,Engineering
+2026-08-13,24900.22,Travel,MakeMyTrip,Engineering
+2026-08-14,142000.0,Events,Taj Hotels,Sales
+2026-08-15,10021.82,Consulting,Deloitte,Operations
+2026-08-16,18685.59,Events,Taj Hotels,Sales
+2026-08-16,2926.03,Events,Taj Hotels,Marketing
+2026-08-16,23506.8,Consulting,KPMG,Operations
+2026-08-16,5823.11,Travel,MakeMyTrip,Marketing
+2026-08-17,24532.73,Office Supplies,Amazon Business,Operations
+2026-08-18,1983.48,Marketing,LinkedIn,Operations
+2026-08-18,23750.76,Software,AWS,Marketing
+2026-08-18,16221.76,Travel,Uber,Finance
+2026-08-18,19776.47,Travel,IndiGo,Sales
+2026-08-19,2180.95,Consulting,Deloitte,Finance
+2026-08-20,20419.8,Consulting,Deloitte,Sales
+2026-08-21,569.47,Software,Slack,Sales
+2026-08-21,6641.03,Software,Slack,Sales
+2026-08-24,19854.62,Travel,MakeMyTrip,Sales
+2026-08-25,4769.03,Office Supplies,Amazon Business,Engineering
+2026-08-25,13389.1,Software,Figma,Engineering
+2026-08-25,19561.42,Events,BookMyShow,Finance
+2026-08-25,11574.13,Consulting,Deloitte,Sales
+2026-08-26,11722.04,Travel,MakeMyTrip,Engineering
+2026-08-26,21258.81,Travel,OYO Rooms,Marketing
+2026-08-26,12511.59,Marketing,Google Ads,Marketing
+2026-08-26,8391.74,Travel,IndiGo,Sales
+2026-08-28,16010.38,Office Supplies,Croma,Finance
+2026-08-29,13498.64,Events,Taj Hotels,Marketing
+2026-08-29,11039.88,Consulting,Accenture,Engineering
+2026-08-30,11036.71,Marketing,Google Ads,Sales
+2026-08-30,20771.77,Events,BookMyShow,Marketing
+2026-08-30,2829.6,Events,Taj Hotels,Marketing
+2026-08-30,6744.8,Office Supplies,Croma,Sales
+2026-08-31,20878.41,Travel,IndiGo,Engineering
+2026-08-31,18742.43,Events,Zomato Catering,Operations
+2026-08-31,1969.53,Software,Slack,Finance
+2026-09-01,3494.67,Office Supplies,Croma,Operations
+2026-09-01,21768.26,Marketing,LinkedIn,Engineering
+2026-09-01,8155.0,Office Supplies,Croma,Engineering
+2026-09-01,5712.1,Consulting,Accenture,Marketing
+2026-09-02,21211.65,Travel,MakeMyTrip,Operations
+2026-09-04,20276.92,Consulting,Deloitte,Finance
+2026-09-04,17036.93,Consulting,Accenture,Finance
+2026-09-06,7052.47,Marketing,Meta Ads,Sales
+2026-09-06,19179.03,Office Supplies,Croma,Operations
+2026-09-06,4944.44,Office Supplies,Amazon Business,Sales
+2026-09-06,10319.22,Consulting,Accenture,Sales
+2026-09-09,10785.9,Software,Figma,Operations
+2026-09-09,8135.12,Software,GitHub,Operations
+2026-09-09,2581.45,Consulting,Accenture,Engineering
+2026-09-09,18983.68,Software,Atlassian,Engineering
+2026-09-11,10888.36,Events,Taj Hotels,Finance
+2026-09-11,7192.59,Events,BookMyShow,Finance
+2026-09-13,7439.54,Events,Zomato Catering,Finance
+2026-09-13,16844.75,Events,Taj Hotels,Engineering
+2026-09-14,1842.16,Events,Taj Hotels,Sales
+2026-09-15,19221.94,Software,Atlassian,Operations
+2026-09-15,689.38,Office Supplies,Amazon Business,Marketing
+2026-09-16,13548.27,Software,Figma,Sales
+2026-09-17,20251.9,Consulting,Accenture,Engineering
+2026-09-17,1536.41,Events,Taj Hotels,Engineering
+2026-09-17,21621.7,Events,Zomato Catering,Finance
+2026-09-17,10408.36,Events,Taj Hotels,Marketing
+2026-09-18,1010.99,Travel,OYO Rooms,Operations
+2026-09-18,11772.37,Software,Slack,Operations
+2026-09-20,11174.07,Travel,Uber,Marketing
+2026-09-20,10196.28,Consulting,Deloitte,Operations
+2026-09-20,5928.52,Marketing,LinkedIn,Sales
+2026-09-22,13499.82,Marketing,Google Ads,Sales
+2026-09-22,18320.79,Office Supplies,Staples,Sales
+2026-09-22,4087.88,Software,AWS,Sales
+2026-09-22,4245.31,Software,Slack,Engineering
+2026-09-23,11866.85,Marketing,LinkedIn,Finance
+2026-09-24,23141.78,Events,Taj Hotels,Finance
+2026-09-24,24670.03,Marketing,Meta Ads,Operations
+2026-09-24,4198.46,Marketing,LinkedIn,Engineering
+2026-09-24,15968.94,Events,BookMyShow,Operations
+2026-09-25,12929.75,Travel,MakeMyTrip,Operations
+2026-09-25,1421.38,Events,BookMyShow,Operations
+2026-09-25,16294.33,Office Supplies,Amazon Business,Engineering
+2026-09-25,12923.16,Consulting,Accenture,Marketing
+2026-09-26,22448.98,Consulting,Accenture,Marketing
+2026-09-26,5111.87,Consulting,Accenture,Finance
+2026-09-26,4196.1,Events,Taj Hotels,Engineering
+2026-09-26,20368.69,Events,Zomato Catering,Operations
+2026-09-28,1458.98,Marketing,Google Ads,Marketing
+2026-09-28,13307.33,Events,Taj Hotels,Sales
+2026-09-28,22989.45,Office Supplies,Staples,Marketing
+2026-09-28,17132.99,Events,BookMyShow,Engineering
+2026-09-29,2815.4,Travel,MakeMyTrip,Marketing
+2026-09-29,18231.47,Office Supplies,Staples,Finance
+2026-09-30,14777.12,Office Supplies,Amazon Business,Sales

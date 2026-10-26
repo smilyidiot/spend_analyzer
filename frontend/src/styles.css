@@ -1,0 +1,64 @@
+:root {
+  --bg: #f6f7f9;
+  --card: #ffffff;
+  --ink: #1f2328;
+  --muted: #6b7280;
+  --accent: #1f4e79;
+  --line: #e5e7eb;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+.page { max-width: 960px; margin: 0 auto; padding: 32px 16px 64px; }
+
+header h1 { margin: 0 0 4px; color: var(--accent); }
+.sub { margin: 0; color: var(--muted); max-width: 640px; }
+
+.controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0; }
+
+.btn {
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  padding: 9px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.kpi { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+.kpi-value { font-size: 22px; font-weight: 700; color: var(--accent); }
+.kpi-label { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px 20px; margin-top: 16px; }
+.card h2 { font-size: 16px; margin: 0 0 12px; }
+
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 680px) { .two-col { grid-template-columns: 1fr; } }
+
+.insights { margin: 0; padding-left: 18px; line-height: 1.6; }
+
+.bar-row { display: grid; grid-template-columns: 130px 1fr auto; align-items: center; gap: 10px; margin: 6px 0; font-size: 13px; }
+.bar-label { color: var(--muted); }
+.bar-track { background: #eef1f5; border-radius: 6px; height: 14px; overflow: hidden; }
+.bar-fill { display: block; height: 100%; background: var(--accent); border-radius: 6px; }
+.bar-value { white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; }
+td:nth-child(n+2), th:nth-child(n+2) { text-align: right; font-variant-numeric: tabular-nums; }
+
+.muted { color: var(--muted); }
+.hint { margin-top: 32px; text-align: center; }
+.error { color: #b42318; background: #fef3f2; border: 1px solid #fecdca; padding: 10px 14px; border-radius: 8px; }
